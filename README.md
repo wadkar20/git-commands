@@ -61,17 +61,20 @@
 
 
 # git init - initialize the repo
-# git ststus - see trcked and untracked files
+# git status - see trcked and untracked files
 # git commit -m - 
 # git remote -v -
 # git remote add origin url
-# git push 
-# git revert -- changes undo
+# git push -
+# git revert - changes undo
 # git rebase - files in sync
 # branches - 
 # git branch -
 # git checkout - see which repose we are
-# git merge - 
+# git merge -Merges changes from one branch into the current branch.
+
+
+
 
 
 
